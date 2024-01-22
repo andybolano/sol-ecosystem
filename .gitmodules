@@ -1,3 +1,6 @@
 [submodule "server2"]
 	path = server2
 	url = https://github.com/andybolano/sol-server
+[submodule "server"]
+	path = server
+	url = https://github.com/andybolano/sol-server
