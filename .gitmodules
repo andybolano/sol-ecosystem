@@ -4,3 +4,9 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/andybolano/sol-server
+[submodule "shared-libray"]
+	path = shared-libray
+	url = https://github.com/andybolano/sol-uiLibrary
+[submodule "trip-management"]
+	path = trip-management
+	url = https://github.com/andybolano/sol-tripManagement
