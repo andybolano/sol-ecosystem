@@ -6,7 +6,7 @@
 	url = https://github.com/andybolano/sol-server
 [submodule "shared-library"]
 	path = shared-library
-	url = https://github.com/andybolano/sol-uiLibrary
+	url = https://github.com/andybolano/sol-shared-library
 [submodule "trip-management"]
 	path = trip-management
 	url = https://github.com/andybolano/sol-tripManagement
