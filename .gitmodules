@@ -1,11 +1,11 @@
-[submodule "server2"]
-	path = server2
+[submodule "server"]
+	path = server
 	url = https://github.com/andybolano/sol-server
 [submodule "server"]
 	path = server
 	url = https://github.com/andybolano/sol-server
-[submodule "shared-libray"]
-	path = shared-libray
+[submodule "shared-library"]
+	path = shared-library
 	url = https://github.com/andybolano/sol-uiLibrary
 [submodule "trip-management"]
 	path = trip-management
