@@ -10,3 +10,6 @@
 [submodule "trip-management"]
 	path = trip-management
 	url = https://github.com/andybolano/sol-tripManagement
+[submodule "shell"]
+	path = shell
+	url = https://github.com/andybolano/shell
