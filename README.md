@@ -26,6 +26,8 @@ Acts as the integrating layer of the project, combining the different microfront
 ### 5. Sol Ecosystem:
 The central project that brings together and coordinates all integrated repositories. It represents the culmination of integration, offering a complete and robust system for the efficient management of shipping logistics.
 
+With the SOL Ecosystem project, we seek to optimize shipment logistics management by leveraging the modularity of microfrontends and the seamless integration between them. This approach not only improves development efficiency, but also provides a consistent and engaging user experience.
+
 
 🔵 View project running: [sol-shell](https://sol-shell.netlify.app/)
 
