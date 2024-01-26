@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "",
     "scripts": {
-      "start-lib": "cd shared-library && npm run serve",
-      "start-trip-management": "cd trip-management && npm run serve",
-      "start-server": "cd server && npm run serve",
-      "start-all": "npm run start-lib & npm run start-trip-management && npm run start-server",
-      "start": "npm run start-all"
+      
   },
   "author": "andyyairb@gmail.com",
   "license": "ISC"

@@ -67,13 +67,16 @@ cd sol-ecosystem
 ```
 
 #### 🛠️ Install dependencies
+This command will install the dependencies for all projects.
 ```
-npm install (?)
+./install_all.sh
 ```
 
 #### 🏁 Compiles and hot-reloads for development
+you must go into each of the projects and execute the following command.
+
 ```
-npm run serve (?)
+npm run serve
 ```
 
 The entire project is configured by default to run on **port 8080**, so you should view it at the following address on your computer [http://localhost:8080/](http://localhost:8080/) 🏁.
