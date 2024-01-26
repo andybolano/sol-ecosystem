@@ -18,10 +18,10 @@ It functions as the centralized source of data for the ecosystem, providing the 
 Contains shared user interface (UI) components that ensure consistency and visual coherence across all microfrontends of the system. Facilitates agile development and uniform interface updates. [View Project](https://github.com/andybolano/sol-shared-library).
 
 ### 3. Sol Trip Management:
-This microfrontend specializes in trip management, offering a complete listing where users can view, create and edit trips. It provides an intuitive interface to optimize shipment-related operations.[View Project](https://github.com/andybolano/sol-tripManagement).
+This microfrontend specializes in trip management, offering a complete listing where users can view, create and edit trips. It provides an intuitive interface to optimize shipment-related operations. [View Project](https://github.com/andybolano/sol-tripManagement).
 
 ### 4. Shell:
-Acts as the integrating layer of the project, combining the different microfrontends in a harmonious way. Provides a cohesive user experience by combining the functionalities of the different independent projects.
+Acts as the integrating layer of the project, combining the different microfrontends in a harmonious way. Provides a cohesive user experience by combining the functionalities of the different independent projects. [View Project](https://github.com/andybolano/shell/).
 
 ### 5. Sol Ecosystem:
 The central project that brings together and coordinates all integrated repositories. It represents the culmination of integration, offering a complete and robust system for the efficient management of shipping logistics.
