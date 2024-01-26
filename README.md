@@ -73,7 +73,7 @@ This command will install the dependencies for all projects.
 ```
 
 #### 🏁 Compiles and hot-reloads for development
-you must go into each of the projects and execute the following command.
+#### Important 📢: you must go into each of the projects and execute the following command.
 
 ```
 npm run serve
