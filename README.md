@@ -9,6 +9,10 @@
 ## General Info
 The "SOL Ecosystem" project arises as an initiative to efficiently and collaboratively integrate several independent projects, each developed as a *microfrontend using Vue 3*. The integration is done through the powerful technology of *Module Federation*, allowing the construction of a comprehensive system for the management of shipping logistics.
 
+![netlify](./screenshots/netlify.png)
+
+continuous deployment was implemented for each project using [netlify](https://www.netlify.com/)
+
 ## Main Components:
 
 ### 1. Sol Server
