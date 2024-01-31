@@ -97,7 +97,7 @@ you can also view the projects independently.
 
 ```
 $ git clone --recursive https://github.com/andybolano/sol-ecosystem.git
-$ ./start-all.sh
+$ ./start-all.sh or docker compose up
 ```
 if you are using linux environment and you have permissions problems when executing the command ./start-all.sh
 ```

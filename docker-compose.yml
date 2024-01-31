@@ -1,0 +1,25 @@
+version: '3'
+services:
+  server:
+    build:
+      context: ./server
+    ports:
+      - "3000:3000"
+
+  shared-library:
+    build:
+      context: ./shared-library
+    ports:
+      - "8081:8081"
+
+  shell:
+    build:
+      context: ./shell
+    ports:
+      - "8080:8080"
+
+  trip-management:
+    build:
+      context: ./trip-management
+    ports:
+      - "8082:8082"
